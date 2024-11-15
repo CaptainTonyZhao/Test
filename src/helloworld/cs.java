@@ -1,9 +1,9 @@
 package helloworld;
 
 public class cs {
-    String name = "C#";
+    String hello = "C#";
 
     String greet() {
-        return "Hello, " + name + "!";
+        return "Hello, " + hello + "!";
     }
 }
